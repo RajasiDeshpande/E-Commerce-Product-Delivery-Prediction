@@ -1,4 +1,4 @@
-ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender,Discount_offered,Weight_in_gms,Reached.on.Time_Y.N
+﻿ID,Warehouse_block,Mode_of_Shipment,Customer_care_calls,Customer_rating,Cost_of_the_Product,Prior_purchases,Product_importance,Gender,Discount_offered,Weight_in_gms,Reached.on.Time_Y.N
 1,D,Flight,4,2,177,3,low,F,44,1233,1
 2,F,Flight,4,5,216,2,low,M,59,3088,1
 3,A,Flight,2,2,183,4,low,M,48,3374,1
